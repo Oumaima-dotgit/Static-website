@@ -1,2 +1,0 @@
-# Static-website
-Static-website
